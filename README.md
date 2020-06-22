@@ -1,12 +1,11 @@
 # shopping-cart-project
 My work for the Shopping Cart project. Completed by Soumom Manir.
 
-[Project Description]
-(https://github.com/prof-rossetti/intro-to-python/tree/master/projects/shopping-cart#basic-requirements)
+[Project Description](https://github.com/prof-rossetti/intro-to-python/tree/master/projects/shopping-cart#basic-requirements)
 
 ## Installation
 
-Clone or download from [Github source] (https://github.com/sm3961/shopping-cart-project.git), then navigate into the project repository:
+Clone or download from [Github source](https://github.com/sm3961/shopping-cart-project.git), then navigate into the project repository:
 
 ```sh
 cd shopping-cart-project
